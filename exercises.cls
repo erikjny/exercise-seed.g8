@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{exercises}[2018/09/14 Innlevering for IN1150 -- Logiske metoder]
+\ProvidesClass{exercises}[2022/03/24 Exercises -- IN4060]
 \LoadClass[12pt,english,a4paper]{article}
 
 % Språk og tegn
